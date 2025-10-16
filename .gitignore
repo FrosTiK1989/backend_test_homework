@@ -1,2 +1,13 @@
 # Extension
 *.doc
+
+# Directory
+/venv/
+/env/
+/__pycache__/
+/build/
+/dist/
+/docs/
+/tests/
+/tests_results/
+/tests_results/ htmlcov/
