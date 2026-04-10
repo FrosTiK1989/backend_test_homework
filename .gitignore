@@ -1,5 +1,6 @@
 # Extension
 *.doc
+*.pdf
 
 # Directory
 /venv/
@@ -11,3 +12,5 @@
 /tests/
 /tests_results/
 /tests_results/ htmlcov/
+
+#Игнорируемые файлы
